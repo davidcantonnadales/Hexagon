@@ -1,0 +1,14 @@
+lastUpgrade=00953
+proj.pluginVersion=0.9.53
+proj.AppId=1001424986515
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3c%21--%0aGoogle+Play+game+services+IDs.%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0a--%3e%0a%3cresources%3e%0a%3c%21--+app_id+--%3e%0a%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e1001424986515%3c%2fstring%3e%0a%3cstring+name%3d%22package_name%22%3ecom.hoax.colorring.puzzle.game%3c%2fstring%3e%0d%0a%3c%21--+leaderboard+Hexa+Color+Ring+Puzzle+--%3e%0a%3cstring+name%3d%22leaderboard_hexa_color_ring_puzzle%22+translatable%3d%22false%22%3eCgkIk8PSzJIdEAIQAA%3c%2fstring%3e%0a%3c%2fresources%3e
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true
+ios.ClientId=673367740843-fg1anbklvvea308k3r169ai5oog5kns7.apps.googleusercontent.com
+ios.BundleId=com.akwebdesigner.boxes
+ios.ResourceData=%23define+CLIENT_ID+%40%22673367740843-fg1anbklvvea308k3r169ai5oog5kns7.apps.googleusercontent.com%22%0d%0a%23define+BUNDLE_ID+%40%22com.akwebdesigner.boxes%22%0d%0a%23define+ACH_ACHIEVEMENT_1+%40%22CgkIq6PhvswTEAIQAQ%22%0d%0a%23define+ACH_ACHIEVEMENT_2+%40%22CgkIq6PhvswTEAIQAg%22%0d%0a%23define+ACH_ACHIEVEMENT_3+%40%22CgkIq6PhvswTEAIQAw%22%0d%0a%23define+ACH_ACHIEVEMENT_4+%40%22CgkIq6PhvswTEAIQBA%22%0d%0a%23define+ACH_ACHIEVEMENT_5+%40%22CgkIq6PhvswTEAIQBQ%22%0d%0a%23define+LEAD_HIGH_SCORE+%40%22CgkIq6PhvswTEAIQAA%22%0d%0a
+ios.SetupDone=true
+and.BundleId=com.hoax.colorring.puzzle.game
